@@ -1,1 +1,3 @@
 src/test/setup/setup.ts
+src/**/*.test.tsx
+src/**/*.test.ts
